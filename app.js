@@ -6,3 +6,4 @@ console.log("Here comes troubles!");
 function reverseString(str) {}
 
 // Create a function that takes a string and returns the string in uppercase
+function toUpperCase(str) {}
